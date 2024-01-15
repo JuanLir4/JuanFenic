@@ -6,6 +6,7 @@ I'm Juan, a passionate Computer Engineering student at the University of Pernamb
 
 - Automation with Python
 - Machine Learning
+- Python with SQL
 
 
 ## 💻 Technologies & Languages
